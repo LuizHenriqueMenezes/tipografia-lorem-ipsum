@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Pacifico&family=Permanent+Marker&display=swap');
+
+body{
+    background-color: lightcyan;
+}
+
+h1{
+    font-family: 'Lobster', cursive;
+    text-shadow: 5px 4px 5px red;
+    letter-spacing: 5px;
+    font-size: 50px;
+}
+
+h2, h3, h4{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+}
+
+p{
+    font-weight: bold;
+    text-indent: 50px;
+}
+
+.especiais{
+    font-family: 'Pacifico', cursive;
+    text-align: right;
+    color: navy;
+    font-weight: 600px;
+}
+
+.riscados{
+    text-decoration: line-through;
+    font-variant: small-caps;
+}
+
+.sublinhados{
+    text-decoration: underline;
+    font-size: 1.5em;
+    color: orangered;
+}
+
+.espaçado{
+    line-height: 30px;
+    color: saddlebrown;
+}
